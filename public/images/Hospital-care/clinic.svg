@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6745" data-name="Rectangle 6745" width="21" height="21" transform="translate(527.727 138.727)" fill="#7047ea"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_6744" data-name="Rectangle 6744" width="21" height="21" transform="translate(-0.273 -0.273)" fill="#7047ea"/>
+    </clipPath>
+  </defs>
+  <g id="Group_27040" data-name="Group 27040" transform="translate(0.256)">
+    <circle id="Ellipse_288" data-name="Ellipse 288" cx="15" cy="15" r="15" transform="translate(-0.256)" fill="#e0d5ff"/>
+    <g id="Nurse" transform="translate(-522.984 -133.727)" clip-path="url(#clip-path)">
+      <g id="Nurse-2" data-name="Nurse" transform="translate(528 139)" clip-path="url(#clip-path-2)">
+        <g id="Layer_2" data-name="Layer 2" transform="translate(4.049 2.729)">
+          <g id="Layer_1" data-name="Layer 1">
+            <path id="Path_21587" data-name="Path 21587" d="M16.6,15.895a4.369,4.369,0,0,0,.459-2.035V6.731a7.568,7.568,0,0,1-6.033-.791,7.565,7.565,0,0,1-6.032.791v7.129a4.364,4.364,0,0,0,.458,2.035,10.762,10.762,0,0,0,5.5,4.848,11.129,11.129,0,0,0,2.481-1.31A9.758,9.758,0,0,0,16.6,15.895Z" transform="translate(-4.99 -5.94)" fill="none" stroke="#7047ea" stroke-width="2"/>
+            <path id="Path_21588" data-name="Path 21588" d="M44.507,59.949a.371.371,0,0,1-.371-.361v-1.1a.371.371,0,0,0-.371-.361h-1.13a.371.371,0,0,0-.371.361v1.093a.371.371,0,0,1-.371.361h-1.13a.371.371,0,0,0-.371.361V61.4a.371.371,0,0,0,.371.361h1.124a.371.371,0,0,1,.371.361v1.093a.371.371,0,0,0,.371.365h1.13a.371.371,0,0,0,.371-.365V62.136a.371.371,0,0,1,.371-.361h1.133a.371.371,0,0,0,.371-.361v-1.1a.371.371,0,0,0-.371-.361Z" transform="translate(-37.165 -53.455)" fill="#7047ea"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="82" viewBox="0 0 82 82">
+    <defs>
+        <filter id="Rectangle_940" width="82" height="82" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".102"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Rectangle_941" width="77" height="78" x="3" y="2" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur-2" stdDeviation="3"/>
+            <feFlood flood-opacity=".102"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Rectangle_942" width="76" height="76" x="3" y="3" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur-3" stdDeviation="3"/>
+            <feFlood flood-opacity=".102"/>
+            <feComposite in2="blur-3" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .cls-2{fill:#fec56c}.cls-5{fill:#f78e3b}.cls-7{fill:#8ca2ac}
+        </style>
+    </defs>
+    <g id="Group_26960" transform="translate(-204 -4678)">
+        <g filter="url(#Rectangle_940)" transform="matrix(1, 0, 0, 1, 204, 4678)">
+            <rect id="Rectangle_940-2" width="64" height="64" fill="#fec56c" opacity="0.4" rx="15" transform="translate(9 6)"/>
+        </g>
+        <g filter="url(#Rectangle_941)" transform="matrix(1, 0, 0, 1, 204, 4678)">
+            <rect id="Rectangle_941-2" width="59" height="60" class="cls-2" rx="15" transform="translate(12 8)"/>
+        </g>
+        <g filter="url(#Rectangle_942)" transform="matrix(1, 0, 0, 1, 204, 4678)">
+            <rect id="Rectangle_942-2" width="58" height="58" class="cls-2" rx="15" transform="translate(12 9)"/>
+        </g>
+        <g id="Layer_2" transform="translate(222 4694.057)">
+            <g id="Layer_1">
+                <rect id="Rectangle_1590" width="44.754" height="43.885" fill="#00a99a" rx="8.11"/>
+                <path id="Rectangle_1591" fill="#ffbe58" d="M0 0H38.542V7.738H0z" transform="translate(7.458 30.511)"/>
+                <path id="Rectangle_1592" d="M0 0H2.483V5.073H0z" class="cls-5" transform="translate(11.035 30.511)"/>
+                <path id="Rectangle_1593" d="M0 0H2.483V5.073H0z" class="cls-5" transform="translate(21.053 30.511)"/>
+                <path id="Rectangle_1594" d="M0 0H2.483V5.073H0z" class="cls-5" transform="translate(31.054 30.511)"/>
+                <path id="Rectangle_1595" d="M0 0H2.483V5.073H0z" class="cls-5" transform="translate(41 30.511)"/>
+                <path id="Rectangle_1596" d="M0 0H2.471V2.538H0z" class="cls-5" transform="translate(16.061 30.511)"/>
+                <path id="Rectangle_1597" d="M0 0H2.471V2.538H0z" class="cls-5" transform="translate(36.033 30.511)"/>
+                <path id="Rectangle_1598" d="M0 0H2.471V2.538H0z" class="cls-5" transform="translate(26.024 30.511)"/>
+                <path id="Path_11597" fill="#fff" d="M14.19 27.009L4.77 15.343s20.341-18.561 40.4 0l-9.122 11.666z" transform="translate(-2.749 -4.087)"/>
+                <path id="Rectangle_1599" d="M0 0H2.589V5.365H0z" class="cls-7" transform="matrix(0.844, -0.536, 0.536, 0.844, 6.354, 8.436)"/>
+                <path id="Rectangle_1600" d="M0 0H2.589V5.365H0z" class="cls-7" transform="translate(13.363 4.723) rotate(-13.07)"/>
+                <path id="Rectangle_1601" d="M0 0H2.589V5.365H0z" class="cls-7" transform="translate(20.926 3.28)"/>
+                <path id="Rectangle_1602" d="M0 0H2.589V5.365H0z" class="cls-7" transform="translate(20.926 3.793)"/>
+                <path id="Rectangle_1603" d="M0 0H2.589V5.365H0z" class="cls-7" transform="translate(28.83 3.737) rotate(18.77)"/>
+                <path id="Rectangle_1604" d="M0 0H2.589V5.365H0z" class="cls-7" transform="matrix(0.884, 0.468, -0.468, 0.884, 35.656, 6.746)"/>
+                <path id="Path_11598" fill="none" stroke="#007d6d" stroke-miterlimit="10" stroke-width="2px" d="M14.19 27.009L4.77 15.343s20.341-18.561 40.4 0l-9.122 11.666z" transform="translate(-2.749 -4.087)"/>
+                <path id="Path_11599" fill="#231f20" d="M50.88 36.538l6.666-11.048-2.2 11.048H50.88" transform="translate(-29.319 -14.688)"/>
+            </g>
+        </g>
+    </g>
+</svg>

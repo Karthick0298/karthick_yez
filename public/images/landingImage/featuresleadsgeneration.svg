@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <filter id="Ellipse_878" x="14.957" y="11.798" width="15.086" height="16.586" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Intersection_4" x="8.355" y="25.264" width="28.289" height="12.438" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_29984" data-name="Group 29984" transform="translate(-346.494 -98.361)">
+    <rect id="Rectangle_7382" data-name="Rectangle 7382" width="45" height="45" rx="8" transform="translate(346.494 98.361)" fill="#9085e2" opacity="0.05"/>
+    <g id="Group_29237" data-name="Group 29237" transform="translate(-143.543 -95.49)">
+      <g transform="matrix(1, 0, 0, 1, 490.04, 193.85)" filter="url(#Ellipse_878)">
+        <g id="Ellipse_878-2" data-name="Ellipse 878" transform="translate(16.46 11.8)" fill="none" stroke="#9085e2" stroke-width="2">
+          <circle cx="6.043" cy="6.043" r="6.043" stroke="none"/>
+          <circle cx="6.043" cy="6.043" r="5.043" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 490.04, 193.85)" filter="url(#Intersection_4)">
+        <g id="Intersection_4-2" data-name="Intersection 4" transform="translate(9.86 25.26)" fill="none">
+          <path d="M2.684,7.938A3.184,3.184,0,0,1,0,6.307,9.794,9.794,0,0,1,9.152,0h6.985a9.794,9.794,0,0,1,9.152,6.307,3.184,3.184,0,0,1-2.683,1.631Z" stroke="none"/>
+          <path d="M 22.60619735717773 5.938000202178955 C 22.69809150695801 5.938000202178955 22.79073715209961 5.920994281768799 22.88208961486816 5.888405323028564 C 22.31715965270996 4.911771774291992 21.54442977905273 4.067430019378662 20.60496711730957 3.408060073852539 C 19.29248809814453 2.486900091171265 17.74748802185059 2 16.13699722290039 2 L 9.152097702026367 2 C 7.541597843170166 2 5.996607780456543 2.486890077590942 4.68413782119751 3.408040046691895 C 3.744127750396729 4.0677809715271 2.970982789993286 4.912829875946045 2.405967473983765 5.890185356140137 C 2.492027282714844 5.920265674591064 2.584745168685913 5.938000202178955 2.683797836303711 5.938000202178955 L 22.60619735717773 5.938000202178955 M 22.60619735717773 7.938000202178955 L 2.683797836303711 7.938000202178955 C 1.58119797706604 7.938000202178955 0.6042279601097107 7.29580020904541 0.0002079528785543516 6.307340145111084 C 1.404067993164062 2.620220184326172 4.972318172454834 1.010894763453507e-07 9.152097702026367 1.010894763453507e-07 L 16.13699722290039 1.010894763453507e-07 C 20.31678771972656 1.010894763453507e-07 23.88504791259766 2.620270013809204 25.28890800476074 6.307400226593018 C 24.68495750427246 7.295690059661865 23.7081470489502 7.938000202178955 22.60619735717773 7.938000202178955 Z" stroke="none" fill="#9085e2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

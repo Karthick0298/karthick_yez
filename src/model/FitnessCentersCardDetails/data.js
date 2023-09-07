@@ -1,0 +1,43 @@
+/* eslint import/no-anonymous-default-export: [2, {"allowArray": true}] */
+export default [
+	{
+		id: 1,
+		src: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/picture/gym_card.png',
+		name: 'Snap Fitness ',
+		city: 'Chennai',
+		area: 'T.Nagar',
+		certificate: 'Certified Trainers | Weight Loss | Les Mills',
+		membership: 'Annual Membership start from 11999/-',
+		ratings: '4.8',
+	},
+	{
+		id: 2,
+		src: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/picture/dance_card.png',
+		name: 'Hot shoe Dance company',
+		city: 'Chennai',
+		area: 'T.Nagar',
+		certificate: 'Certified Trainers | Weight Loss | Les Mills',
+		membership: 'Annual Membership start from 11999/-',
+		ratings: '4.8',
+	},
+	{
+		id: 3,
+		src: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/picture/boxing_card.png',
+		name: 'F45 Training',
+		city: 'Chennai',
+		area: 'T.Nagar',
+		certificate: 'Certified Trainers | Weight Loss | Les Mills',
+		membership: 'Annual Membership start from 11999/-',
+		ratings: '4.8',
+	},
+	{
+		id: 4,
+		src: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/picture/gym_card.png',
+		name: 'Snap Fitness ',
+		city: 'Chennai',
+		area: 'T.Nagar',
+		certificate: 'Certified Trainers | Weight Loss | Les Mills',
+		membership: 'Annual Membership start from 11999/-',
+		ratings: '4.8',
+	},
+]

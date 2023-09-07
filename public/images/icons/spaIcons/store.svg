@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1702" data-name="Rectangle 1702" width="35" height="35" transform="translate(528 448)" fill="#e4e4e4"/>
+    </clipPath>
+  </defs>
+  <g id="shopping-cart" transform="translate(3.984 6)">
+    <g id="Shop" transform="translate(-531.984 -454)" clip-path="url(#clip-path)">
+      <g id="shopping-cart-2" data-name="shopping-cart" transform="translate(531.984 453.568)">
+        <circle id="Ellipse_223" data-name="Ellipse 223" cx="1" cy="1" r="1" transform="translate(8.051 21.864)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <circle id="Ellipse_224" data-name="Ellipse 224" cx="1" cy="1" r="1" transform="translate(21 21.864)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_7281" data-name="Path 7281" d="M1,1H5.545L8.591,16.946a2.3,2.3,0,0,0,2.273,1.917H21.909a2.3,2.3,0,0,0,2.273-1.917L26,6.955H6.682" transform="translate(-1 -1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

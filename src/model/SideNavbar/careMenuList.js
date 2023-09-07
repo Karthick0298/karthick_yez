@@ -1,0 +1,51 @@
+export const careMenuList = [
+	{
+		name: 'Doctors',
+		path: 'careDoctors',
+		img: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/icons/careIcons/doctors.svg',
+		index: 0,
+		color: '#7047EA',
+	},
+	{
+		name: 'Hospitals',
+		path: 'careHospitals',
+		img: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/icons/careIcons/hospitals.svg',
+		index: 1,
+		color: '#7047EA',
+	},
+	{
+		name: 'Lab/Scan',
+		path: 'careLabScan',
+		img: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/icons/careIcons/lab.svg',
+		index: 2,
+		color: '#7047EA',
+	},
+	{
+		name: 'Home Services',
+		path: 'careHomeServices',
+		img: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/icons/careIcons/homeServices.svg',
+		index: 3,
+		color: '#7047EA',
+	},
+	{
+		name: 'Packages',
+		path: 'carePackages',
+		img: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/icons/careIcons/packages.svg',
+		index: 4,
+		color: '#7047EA',
+	},
+	{
+		name: 'Consult',
+		path: 'careConsult',
+		img: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/icons/careIcons/consult.svg',
+		index: 5,
+		color: '#7047EA',
+	},
+	{
+		name: 'Store',
+		path: 'careStore',
+		img: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/icons/careIcons/store.svg',
+		index: 6,
+		color: '#7047EA',
+	},
+]

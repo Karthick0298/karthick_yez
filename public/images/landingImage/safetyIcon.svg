@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="58" height="52.126" viewBox="0 0 58 52.126">
+  <g id="Group_29265" data-name="Group 29265" transform="translate(-867 -1163.874)">
+    <path id="Icon_ionic-ios-lock" data-name="Icon ionic-ios-lock" d="M17.688,9H16.75V7.176a3.75,3.75,0,1,0-7.5-.051V9H8.313A1.567,1.567,0,0,0,6.75,10.562v7.5a1.567,1.567,0,0,0,1.563,1.563h9.375a1.567,1.567,0,0,0,1.563-1.562v-7.5A1.567,1.567,0,0,0,17.688,9Zm-4.141,4.875v2.687a.56.56,0,0,1-.52.563.548.548,0,0,1-.574-.547v-2.7a1.25,1.25,0,1,1,1.094,0ZM15.656,9H10.344V7.125a2.656,2.656,0,0,1,5.313,0Z" transform="translate(883.5 1160.5)" fill="#d91e15"/>
+    <g id="Group_29263" data-name="Group 29263" transform="translate(14 -13)">
+      <circle id="Ellipse_879" data-name="Ellipse 879" cx="6" cy="6" r="6" transform="translate(892 1187)"/>
+      <path id="Rectangle_7341" data-name="Rectangle 7341" d="M9,0h7a9,9,0,0,1,9,9V9a5,5,0,0,1-5,5H5A5,5,0,0,1,0,9V9A9,9,0,0,1,9,0Z" transform="translate(886 1201)"/>
+    </g>
+    <g id="Group_29264" data-name="Group 29264" transform="translate(-19 -13)">
+      <circle id="Ellipse_879-2" data-name="Ellipse 879" cx="6" cy="6" r="6" transform="translate(892 1187)"/>
+      <path id="Rectangle_7341-2" data-name="Rectangle 7341" d="M9,0h7a9,9,0,0,1,9,9V9a5,5,0,0,1-5,5H5A5,5,0,0,1,0,9V9A9,9,0,0,1,9,0Z" transform="translate(886 1201)"/>
+    </g>
+    <g id="Group_29262" data-name="Group 29262" transform="translate(0 -3)">
+      <g id="Ellipse_879-3" data-name="Ellipse 879" transform="translate(890 1190)" fill="none" stroke="#fff" stroke-width="3">
+        <circle cx="6" cy="6" r="6" stroke="none"/>
+        <circle cx="6" cy="6" r="7.5" fill="none"/>
+      </g>
+      <g id="Rectangle_7341-3" data-name="Rectangle 7341" transform="translate(884 1205)" fill="none" stroke="#000" stroke-width="3">
+        <path d="M9,0h7a9,9,0,0,1,9,9V9a5,5,0,0,1-5,5H5A5,5,0,0,1,0,9V9A9,9,0,0,1,9,0Z" stroke="none"/>
+        <path d="M9,1.5h7A7.5,7.5,0,0,1,23.5,9V9A3.5,3.5,0,0,1,20,12.5H5A3.5,3.5,0,0,1,1.5,9V9A7.5,7.5,0,0,1,9,1.5Z" fill="none"/>
+      </g>
+      <g id="Ellipse_880" data-name="Ellipse 880" transform="translate(892 1192)" fill="none" stroke="#000" stroke-width="3">
+        <circle cx="4" cy="4" r="4" stroke="none"/>
+        <circle cx="4" cy="4" r="5.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

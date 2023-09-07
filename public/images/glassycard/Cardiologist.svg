@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="62" viewBox="0 0 62 62">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6709" data-name="Rectangle 6709" width="62" height="62" transform="translate(54 40)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="1.264" y1="-0.461" x2="0.031" y2="0.853" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7047ea"/>
+      <stop offset="1" stop-color="#9847ea"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_105" data-name="Mask Group 105" transform="translate(-54 -40)" clip-path="url(#clip-path)">
+    <path id="Icon_metro-heart" data-name="Icon metro-heart" d="M35.15,3.856c-4.643,0-8.639,3.777-10.49,7.722-1.852-3.945-5.849-7.722-10.492-7.722a11.6,11.6,0,0,0-11.6,11.6c0,13.022,13.136,16.436,22.089,29.31,8.462-12.794,22.087-16.7,22.087-29.31A11.6,11.6,0,0,0,35.15,3.856Z" transform="translate(60.342 46.991)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+export const rowMenuList = [
+	{
+		name: 'Care',
+		path: 'care',
+		img: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/icons/care.svg',
+		index: 0,
+		color: '#7047EA',
+		home: '/care',
+	},
+	{
+		name: 'Fitness',
+		path: 'fitness',
+		img: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/icons/fitness.svg',
+		index: 1,
+		color: '#20202C',
+		home: '/fitness',
+	},
+	{
+		name: 'Mind',
+		path: 'mind',
+		img: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/icons/yoga.svg',
+		index: 2,
+		color: '#0CC593',
+		home: '/mind',
+	},
+	{
+		name: 'Spa',
+		path: 'spa',
+		img: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/icons/spa.svg',
+		index: 3,
+		color: '#0693EA',
+		home: '/spawellness',
+	},
+	{
+		name: 'Sports',
+		path: 'sports',
+		img: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/icons/sport.svg',
+		index: 4,
+		color: '#FF2083',
+		home: '/',
+	},
+]

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="441" height="183" viewBox="0 0 441 183">
+  <g id="Group_27062" data-name="Group 27062" transform="translate(-500 -260)">
+    <g id="Rectangle_6486" data-name="Rectangle 6486" transform="translate(500 260)" fill="#eeecec" stroke="#707070" stroke-width="3" stroke-dasharray="13">
+      <rect width="441" height="183" rx="3" stroke="none"/>
+      <rect x="1.5" y="1.5" width="438" height="180" rx="1.5" fill="none"/>
+    </g>
+    <g id="Icon_feather-upload-cloud" data-name="Icon feather-upload-cloud" transform="translate(683.289 293.438)" opacity="0.59">
+      <path id="Path_20529" data-name="Path 20529" d="M37.611,30.805,24.805,18,12,30.805" transform="translate(11.919 15.308)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <path id="Path_20530" data-name="Path 20530" d="M18,18V46.812" transform="translate(18.724 15.308)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <path id="Path_20531" data-name="Path 20531" d="M63.584,53.765A16.007,16.007,0,0,0,55.932,23.7H51.9A25.611,25.611,0,1,0,7.912,47.074" transform="translate(0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <path id="Path_20532" data-name="Path 20532" d="M37.611,30.805,24.805,18,12,30.805" transform="translate(11.919 15.308)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

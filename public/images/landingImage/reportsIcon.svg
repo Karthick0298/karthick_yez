@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="51.791" height="52.021" viewBox="0 0 51.791 52.021">
+  <defs>
+    <filter id="Path_14108" x="13.338" y="11.97" width="38.453" height="40.051" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_696" x="18.839" y="28.407" width="6.981" height="18.435" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_699" x="38.746" y="18.454" width="6.981" height="28.388" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_697" x="29.074" y="34.379" width="6.981" height="12.462" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_698" x="29.074" y="26.417" width="6.981" height="10.472" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_29282" data-name="Group 29282" transform="translate(-210.762 -4214.743)">
+    <path id="Path_22719" data-name="Path 22719" d="M18.52,2.776c18.073,0,18.755,4.514,18.755,17.05s-3.41,27.28-18.755,26.6S-.917,35.853-1.94,24.6.448,2.776,18.52,2.776Z" transform="translate(212.865 4211.967)" fill="#dfaa05" opacity="0.32"/>
+    <g id="Icon_feather-video" data-name="Icon feather-video" transform="translate(225.6 4226.713)">
+      <g transform="matrix(1, 0, 0, 1, -14.84, -11.97)" filter="url(#Path_14108)">
+        <path id="Path_14108-2" data-name="Path 14108" d="M5.652,0H29.9a5.815,5.815,0,0,1,5.652,5.953V29.5A5.815,5.815,0,0,1,29.9,35.453H5.652A5.815,5.815,0,0,1,0,29.5V5.953A5.815,5.815,0,0,1,5.652,0ZM29.9,32.964A3.329,3.329,0,0,0,33.063,29.5V5.953A3.329,3.329,0,0,0,29.9,2.488H5.652A3.329,3.329,0,0,0,2.488,5.953V29.5a3.329,3.329,0,0,0,3.164,3.465Z" transform="translate(50.29 11.97) rotate(90)" fill="#d91e15"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -14.84, -11.97)" filter="url(#Line_696)">
+        <path id="Line_696-2" data-name="Line 696" d="M1.991,13.935A1.991,1.991,0,0,1,0,11.944V1.991a1.991,1.991,0,1,1,3.981,0v9.953A1.991,1.991,0,0,1,1.991,13.935Z" transform="translate(20.34 28.41)" fill="#d91e15"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -14.84, -11.97)" filter="url(#Line_699)">
+        <path id="Line_699-2" data-name="Line 699" d="M1.991,23.888A1.991,1.991,0,0,1,0,21.9V1.991a1.991,1.991,0,1,1,3.981,0V21.9A1.991,1.991,0,0,1,1.991,23.888Z" transform="translate(40.25 18.45)" fill="#d91e15"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -14.84, -11.97)" filter="url(#Line_697)">
+        <path id="Line_697-2" data-name="Line 697" d="M1.991,7.963A1.991,1.991,0,0,1,0,5.972V1.991a1.991,1.991,0,1,1,3.981,0V5.972A1.991,1.991,0,0,1,1.991,7.963Z" transform="translate(30.57 34.38)" fill="#d91e15"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -14.84, -11.97)" filter="url(#Line_698)">
+        <path id="Line_698-2" data-name="Line 698" d="M1.991,5.972A1.991,1.991,0,0,1,0,3.981V1.991a1.991,1.991,0,1,1,3.981,0V3.981A1.991,1.991,0,0,1,1.991,5.972Z" transform="translate(30.57 26.42)" fill="#d91e15"/>
+      </g>
+    </g>
+  </g>
+</svg>

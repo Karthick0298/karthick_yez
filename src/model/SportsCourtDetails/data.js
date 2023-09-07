@@ -1,0 +1,38 @@
+export default [
+	{
+		id: 1,
+		src: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/Sports/basketballCourt.png',
+		city: 'Chennai',
+		area: 'T-Nagar',
+		ratings: '4.6',
+		name: 'Basketball Court',
+		membership: 'Annual Membership start from 11999/-',
+	},
+	{
+		id: 2,
+		src: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/Sports/pickleCourt.png',
+		city: 'Chennai',
+		area: 'T-Nagar',
+		ratings: '4.2',
+		name: 'Pickle ball Court',
+		membership: 'Annual Membership start from 11999/-',
+	},
+	{
+		id: 3,
+		src: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/Sports/roversCourt.png',
+		city: 'Chennai',
+		area: 'T-Nagar',
+		ratings: '4.7',
+		name: 'Rovers Football',
+		membership: 'Annual Membership start from 11999/-',
+	},
+	{
+		id: 4,
+		src: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/Sports/volleyballCourt.png',
+		city: 'Chennai',
+		area: 'T-Nagar',
+		ratings: '4.8',
+		name: 'Volley Ball',
+		membership: 'Annual Membership start from 11999/-',
+	},
+]

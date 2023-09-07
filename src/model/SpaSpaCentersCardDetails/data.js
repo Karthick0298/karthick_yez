@@ -1,0 +1,38 @@
+export default [
+	{
+		id: 1,
+		src: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/SpaWellness/spa1.png',
+		city: 'Chennai',
+		area: 'T-Nagar',
+		ratings: '4.6',
+		name: 'Gold Spa',
+		membership: 'Annual Membership start from 11999/-',
+	},
+	{
+		id: 2,
+		src: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/SpaWellness/spa2.png',
+		city: 'Chennai',
+		area: 'T-Nagar',
+		ratings: '4.2',
+		name: 'Aromatherapy Spa',
+		membership: 'Annual Membership start from 11999/-',
+	},
+	{
+		id: 3,
+		src: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/SpaWellness/spa3.png',
+		city: 'Chennai',
+		area: 'T-Nagar',
+		ratings: '4.7',
+		name: 'Rovers Spa',
+		membership: 'Annual Membership start from 11999/-',
+	},
+	{
+		id: 4,
+		src: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/SpaWellness/spa4.png',
+		city: 'Chennai',
+		area: 'T-Nagar',
+		ratings: '4.8',
+		name: 'Spa center',
+		membership: 'Annual Membership start from 11999/-',
+	},
+]

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <filter id="Icon_map-gym" x="7.363" y="8.863" width="30.274" height="31.774" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_29993" data-name="Group 29993" transform="translate(-346.494 -98.361)">
+    <rect id="Rectangle_7382" data-name="Rectangle 7382" width="45" height="45" rx="8" transform="translate(346.494 98.361)" fill="#9085e2" opacity="0.05"/>
+    <g transform="matrix(1, 0, 0, 1, 346.49, 98.36)" filter="url(#Icon_map-gym)">
+      <path id="Icon_map-gym-2" data-name="Icon map-gym" d="M10.586,26.146a.582.582,0,0,1-.029.819L9.3,28.138a.578.578,0,0,1-.816-.029L1.172,20.227a.582.582,0,0,1,.029-.819l1.258-1.173a.577.577,0,0,1,.816.029Zm9.332-14.83a.582.582,0,0,1-.029.819l-7.9,7.383a.578.578,0,0,1-.816-.029L9.282,17.452a.582.582,0,0,1,.029-.819l7.9-7.383a.576.576,0,0,1,.815.029l1.889,2.036ZM13.275,23.632a.582.582,0,0,1-.029.819l-1.258,1.174a.577.577,0,0,1-.816-.029L3.863,17.714a.582.582,0,0,1,.029-.819l1.255-1.173a.578.578,0,0,1,.816.029ZM25.453,11.6a.582.582,0,0,1-.03.819l-1.257,1.174a.578.578,0,0,1-.816-.029l-7.31-7.88a.582.582,0,0,1,.029-.819l1.26-1.177a.576.576,0,0,1,.815.029L25.453,11.6Zm2.685-2.509a.583.583,0,0,1-.029.819l-1.255,1.173a.576.576,0,0,1-.815-.029L18.729,3.169a.583.583,0,0,1,.029-.819l1.256-1.175a.575.575,0,0,1,.815.029Z" transform="translate(7.85 7.84)" fill="#9085e2"/>
+    </g>
+  </g>
+</svg>

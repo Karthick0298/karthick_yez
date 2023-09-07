@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="900" viewBox="0 0 1440 900">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.341" cy="0.541" r="0.438" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#586284" stop-opacity="0.122"/>
+      <stop offset="0.661" stop-color="#586284" stop-opacity="0.2"/>
+      <stop offset="0.853" stop-color="#586284" stop-opacity="0.251"/>
+      <stop offset="1" stop-color="#586284" stop-opacity="0.302"/>
+    </radialGradient>
+  </defs>
+  <g id="Common_bg" data-name="Common bg" transform="translate(0 -900)">
+    <rect id="Rectangle_fitness_bg" data-name="Rectangle fitness bg" width="1440" height="900" transform="translate(0 900)" opacity="0.85" fill="url(#radial-gradient)"/>
+  </g>
+</svg>

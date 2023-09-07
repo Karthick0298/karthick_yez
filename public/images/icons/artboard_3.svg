@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="75" viewBox="0 0 75 75">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.041" y1="0.957" x2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.251"/>
+    </linearGradient>
+    <filter id="Rectangle_810" x="0" y="0" width="75" height="75" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_27998" data-name="Group 27998" transform="translate(52.5 18.5) rotate(90)">
+    <g transform="matrix(0, -1, 1, 0, -18.5, 52.5)" filter="url(#Rectangle_810)">
+      <g id="Rectangle_810-2" data-name="Rectangle 810" transform="translate(52.5 18.5) rotate(90)" stroke="rgba(255,255,255,0.5)" stroke-width="1" fill="url(#linear-gradient)">
+        <rect width="30" height="30" rx="15" stroke="none"/>
+        <rect x="0.5" y="0.5" width="29" height="29" rx="14.5" fill="none"/>
+      </g>
+    </g>
+    <path id="path" d="M8.605,1.628,6.977,0,0,6.977l6.977,6.977,1.628-1.628L3.256,6.977Z" transform="translate(7.953 19.372) rotate(-90)" fill="#475677"/>
+  </g>
+</svg>

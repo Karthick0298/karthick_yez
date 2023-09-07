@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1701" data-name="Rectangle 1701" width="35" height="35" transform="translate(528 387)" fill="#e4e4e4"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_metro-lab" data-name="Icon metro-lab" transform="translate(4.986 4)">
+    <g id="Lab_test" data-name="Lab test" transform="translate(-532.986 -391)" clip-path="url(#clip-path)">
+      <path id="Icon_metro-lab-2" data-name="Icon metro-lab" d="M29.4,24.009,20.97,9.965V4.276h.853a.853.853,0,1,0,0-1.706H13.295a.853.853,0,1,0,0,1.706h.853V9.965L5.719,24.009c-1.931,3.217-.44,5.85,3.312,5.85H26.086C29.838,29.859,31.329,27.227,29.4,24.009ZM10.338,19.626l5.515-9.192V4.276h3.411v6.158l5.515,9.192Z" transform="translate(527.942 388.285)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,38 @@
+export default [
+	{
+		id: 1,
+		src: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/Sports/gsmTennis.png',
+		city: 'Chennai',
+		area: 'T-Nagar',
+		ratings: '4.6',
+		name: 'GSM Table Tennis',
+		membership: 'Annual Membership start from 11999/-',
+	},
+	{
+		id: 2,
+		src: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/Sports/soccer.png',
+		city: 'Chennai',
+		area: 'T-Nagar',
+		ratings: '4.2',
+		name: 'Soccer Academy',
+		membership: 'Annual Membership start from 11999/-',
+	},
+	{
+		id: 3,
+		src: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/Sports/rovers.png',
+		city: 'Chennai',
+		area: 'T-Nagar',
+		ratings: '4.7',
+		name: 'Rovers Football',
+		membership: 'Annual Membership start from 11999/-',
+	},
+	{
+		id: 4,
+		src: 'https://ik.imagekit.io/lyfngo/web_b2c/public/images/Sports/westDelhi.png',
+		city: 'Chennai',
+		area: 'T-Nagar',
+		ratings: '4.8',
+		name: 'West Delhi Cricket',
+		membership: 'Annual Membership start from 11999/-',
+	},
+]

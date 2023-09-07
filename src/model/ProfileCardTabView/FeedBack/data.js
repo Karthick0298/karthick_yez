@@ -1,0 +1,36 @@
+/* eslint import/no-anonymous-default-export: [2, {"allowArray": true}] */
+export default [
+	{
+		id: 1,
+		feedbackname: 'Anonymous',
+		years: '24 years',
+		feedbackyearsago: 'a month ago',
+		content1: 'Visited for chest pain',
+		content2: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo Cum sociis natoque',
+		Recommends: 'Recommends for',
+		buttonContent1: 'Friendiness',
+		buttonContent2: 'Satisfaction',
+	},
+	{
+		id: 2,
+		feedbackname: 'Anonymous',
+		years: '24 years',
+		feedbackyearsago: 'a month ago',
+		content1: 'Visited for chest pain',
+		content2: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo Cum sociis natoque',
+		Recommends: 'Recommends for',
+		buttonContent1: 'Friendiness',
+		buttonContent2: 'Satisfaction',
+	},
+	{
+		id: 3,
+		feedbackname: 'Anonymous',
+		years: '24 years',
+		feedbackyearsago: 'a month ago',
+		content1: 'Visited for chest pain',
+		content2: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo Cum sociis natoque',
+		Recommends: 'Recommends for',
+		buttonContent1: 'Friendiness',
+		buttonContent2: 'Satisfaction',
+	},
+]

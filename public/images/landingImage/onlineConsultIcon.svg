@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59" height="51.5" viewBox="0 0 59 51.5">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1700" data-name="Rectangle 1700" width="47" height="47" transform="translate(0.262 0.262)" fill="#d91e15"/>
+    </clipPath>
+  </defs>
+  <g id="Group_29280" data-name="Group 29280" transform="translate(-210.762 -4214.743)">
+    <path id="Path_22719" data-name="Path 22719" d="M18.52,2.776c18.073,0,18.755,4.514,18.755,17.05s-3.41,27.28-18.755,26.6S-.917,35.853-1.94,24.6.448,2.776,18.52,2.776Z" transform="translate(212.865 4211.967)" fill="#15d9aa" opacity="0.16"/>
+    <g id="monitor" transform="translate(227.223 4224.719)">
+      <g id="Consult" transform="translate(-4.723 -5.738)" clip-path="url(#clip-path)">
+        <g id="monitor-2" data-name="monitor" transform="translate(6.494 8.192)">
+          <rect id="Rectangle_732" data-name="Rectangle 732" width="33.986" height="25.149" rx="2" fill="#fff" stroke="#d91e15" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <line id="Line_246" data-name="Line 246" x2="10.876" transform="translate(11.555 31.92)" fill="none" stroke="#d91e15" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <line id="Line_247" data-name="Line 247" y2="6.77" transform="translate(16.993 25.149)" fill="none" stroke="#d91e15" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

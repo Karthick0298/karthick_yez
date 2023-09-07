@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <filter id="Rectangle_6767" x="0" y="0" width="70" height="70" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#e5e5e5" flood-opacity="0.522" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_7032" x="18.063" y="19.758" width="16.593" height="20.034" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_7034" x="35.539" y="35.293" width="16.593" height="20.034" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_7033" x="35.539" y="19.758" width="16.593" height="16.151" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_7035" x="18.063" y="39.176" width="16.593" height="16.151" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_29239" data-name="Group 29239" transform="translate(22877.922 23429.189)">
+    <g data-type="innerShadowGroup">
+      <rect id="Rectangle_6767-2" data-name="Rectangle 6767" width="70" height="70" rx="10" transform="translate(-22877.922 -23429.189)" fill="#d91e15"/>
+      <g transform="matrix(1, 0, 0, 1, -22877.92, -23429.19)" filter="url(#Rectangle_6767)">
+        <rect id="Rectangle_6767-3" data-name="Rectangle 6767" width="70" height="70" rx="10" transform="translate(0 0)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_29240" data-name="Group 29240" transform="translate(-22869.236 -23419.992)">
+      <g transform="matrix(1, 0, 0, 1, -8.69, -9.2)" filter="url(#Rectangle_7032)">
+        <g id="Rectangle_7032-2" data-name="Rectangle 7032" transform="translate(19.56 19.76)" fill="none" stroke="#fff" stroke-width="3">
+          <rect width="13.593" height="15.534" rx="2" stroke="none"/>
+          <rect x="1.5" y="1.5" width="10.593" height="12.534" rx="0.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -8.69, -9.2)" filter="url(#Rectangle_7034)">
+        <g id="Rectangle_7034-2" data-name="Rectangle 7034" transform="translate(37.04 35.29)" fill="none" stroke="#fff" stroke-width="3">
+          <rect width="13.593" height="15.534" rx="2" stroke="none"/>
+          <rect x="1.5" y="1.5" width="10.593" height="12.534" rx="0.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -8.69, -9.2)" filter="url(#Rectangle_7033)">
+        <g id="Rectangle_7033-2" data-name="Rectangle 7033" transform="translate(37.04 19.76)" fill="none" stroke="#fff" stroke-width="3">
+          <rect width="13.593" height="11.651" rx="2" stroke="none"/>
+          <rect x="1.5" y="1.5" width="10.593" height="8.651" rx="0.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -8.69, -9.2)" filter="url(#Rectangle_7035)">
+        <g id="Rectangle_7035-2" data-name="Rectangle 7035" transform="translate(19.56 39.18)" fill="none" stroke="#fff" stroke-width="3">
+          <rect width="13.593" height="11.651" rx="2" stroke="none"/>
+          <rect x="1.5" y="1.5" width="10.593" height="8.651" rx="0.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

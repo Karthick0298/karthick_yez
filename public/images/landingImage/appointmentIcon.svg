@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42.636" height="47.04" viewBox="0 0 42.636 47.04">
+  <g id="Group_29268" data-name="Group 29268" transform="translate(-230.682 -1168.96)">
+    <g id="Group_29261" data-name="Group 29261" transform="translate(-6.318 -10.54)">
+      <g id="Icon_feather-calendar" data-name="Icon feather-calendar" transform="translate(238.5 1181)">
+        <path id="Path_22704" data-name="Path 22704" d="M8.9,6H39.732a4.4,4.4,0,0,1,4.4,4.4V41.232a4.4,4.4,0,0,1-4.4,4.4H8.9a4.4,4.4,0,0,1-4.4-4.4V10.4A4.4,4.4,0,0,1,8.9,6Z" transform="translate(-4.5 -1.596)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="Path_22705" data-name="Path 22705" d="M24,3v8.808" transform="translate(4.626 -3)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="Path_22706" data-name="Path 22706" d="M12,3v8.808" transform="translate(-0.99 -3)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="Path_22707" data-name="Path 22707" d="M4.5,15H44.136" transform="translate(-4.5 2.616)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+    </g>
+    <path id="Path_22709" data-name="Path 22709" d="M6814.062,2592.886l2.835,3.582" transform="translate(-6569.958 -1391.56)" fill="none" stroke="#d91e15" stroke-linecap="round" stroke-width="2"/>
+    <path id="Path_22712" data-name="Path 22712" d="M6816.9,2592.886l-2.834,3.582" transform="translate(-6557 -1391.56)" fill="none" stroke="#d91e15" stroke-linecap="round" stroke-width="2"/>
+    <path id="Path_22711" data-name="Path 22711" d="M4.4-.414-.449,4.863" transform="translate(249.392 1199.4) rotate(-42)" fill="none" stroke="#d91e15" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>

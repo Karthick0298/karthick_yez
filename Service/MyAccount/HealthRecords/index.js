@@ -1,0 +1,19 @@
+import {API_ENDPOINTS} from '../../../src/constants'
+import axios from 'axios'
+import secureLocalStorage from 'react-secure-storage'
+
+const headers = {
+	'Content-Type': 'application/json;charset=UTF-8',
+	'Access-Control-Allow-Origin': '*',
+	'Access-Control-Allow-Credentials': 'true',
+	isAuthRequired: true,
+	withCredentials: false,
+}
+// eslint-disable-next-line import/no-anonymous-default-export
+export default {
+	HealthRecordsDetails: () => {
+		const custId = secureLocalStorage.getItem('custUuid')
+		const tentUuid = secureLocalStorage.getItem('tentUuid')
+		return axios.get(API_ENDPOINTS.HEALTH_RECORDS_DETAILS, {headers: {...headers, isPhp: true, path: {tentUuid, custId}}})
+	},
+}
